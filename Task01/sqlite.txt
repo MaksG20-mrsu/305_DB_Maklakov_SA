@@ -1,0 +1,1 @@
+3.46.1 Возможные режимы вывода данных: ascii, columns, csv, html, insert, json, line, list, markdown, quote, table, tabs, tcl

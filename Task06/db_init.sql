@@ -205,5 +205,3 @@ INSERT INTO appointment_services (appointment_id, service_id, actual_price, quan
     (10, 7, 500.00, 1),
     
     (11, 2, 3000.00, 1);
-
-pause
